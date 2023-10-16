@@ -21,7 +21,7 @@ JavaScript is a versatile and widely-used programming language in web developmen
 Here are some of the exciting projects you'll find in this repository:
 
 1. **Project 1:** Color-Fliper.
-   - [Project Directory](//Color-Filiper)
+   - [Project Directory](/Color-Filiper)
 
 
 
