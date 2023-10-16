@@ -10,7 +10,6 @@ Welcome to the LearnJavascript repository! This collection of beginner-friendly 
 - [Projects](#projects)
 - [How to Get Started](#how-to-get-started)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
