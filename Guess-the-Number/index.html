@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess the Number</title>
+    <style>
+        .container {
+            margin-top: 5rem;
+            margin-left: 20%;
+            margin-right: 20%;
+            border: 2px solid black;
+            padding: 7rem;
+        }
+
+        label {
+            margin-bottom: 10px;
+            font-weight: 600;
+            display: flex;
+            margin-left: 7rem;
+        }
+
+        #inputField {
+            margin-left: 7rem;
+            width: 55%;
+            height: 30px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        #submitbutton{
+            display: flex;
+            margin-left: 14rem;
+            margin-top: 1rem;
+            padding: 10px 30px 10px 30px;
+            background-color: green;
+            color: white;
+            border-radius: 10px;
+        }
+        .previousGueses {
+            margin-left: 12rem;
+        }
+        .RemainingGuesses {
+            margin-left: 10rem;
+        }
+        .message {
+            display: flex;
+            margin-left: 12rem;
+            margin-top: 20px;
+            font-size: large;
+            font-weight: 600;
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <form action="">
+            <label for="inputField">Guess the Number between 1 to 100</label>
+            <input type="text" name="inputField" id="inputField" placeholder="Guess the Number">
+            <button type="submit" id="submitbutton">Guess</button>
+        </form>
+        <p class="previousGueses">Previous Gueses:</p>
+        <span class="RemainingGuesses">Remaining Guesses = 10</span>
+        <span class="message"></span>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
