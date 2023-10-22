@@ -28,6 +28,7 @@ function checkUser(userInput) {
     
             const profileLink = document.querySelector('a');
             profileLink.href = data.html_url;
+            profileLink.target = '_blank';
             
             const name = document.querySelector('.name').innerHTML = data.name;
     
@@ -41,6 +42,9 @@ function checkUser(userInput) {
                 }
                 if (user.className == 'followers') {
                     user.innerHTML = `Followers: ${data.followers}`
+                }
+                if(user.className == 'repos') {
+                    user.innerHTML = `Repos: ${data.public_repos}`
                 }
             });
         } else {
