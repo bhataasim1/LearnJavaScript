@@ -31,6 +31,7 @@ function displayUserData(user) {
 
     const profileLink = document.querySelector('a');
     profileLink.href = user.html_url;
+    profileLink.target = '_blank'
 
     document.querySelector('.follow-btn').innerHTML = `Followers: ${user.followers}`;
 }
