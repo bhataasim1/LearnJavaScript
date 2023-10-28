@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn BIND</title>
+</head>
+<body>
+    <button id="button">Click Me</button>
+
+    <script>
+        class learningBind {
+            constructor() {
+                this.url = "https://github.com/bhataasim1";
+                this.port = "443";
+                
+                
+                document.querySelector('button').addEventListener('click', this.handleClick.bind(this));
+            }
+
+            handleClick() {
+                console.log("Button Clicked")
+                console.log(`url = ${this.url}`)
+            }
+
+        }
+
+        const bind = new learningBind();
+    </script>
+</body>
+</html>
