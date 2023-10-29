@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Bhat Aasim",
+        "email": "aasim@fb.com",
+        "phone": "0123456789",
+        "address": "Kashmir",
+        "city": "Srinagar",
+        "social": "https://facebook.com/bhataasim700"
+    },
+    {
+        "name": "Ali",
+        "email": "ali@fb.com",
+        "phone": "0123456789",
+        "address": "UK",
+        "city": "California",
+        "social": "https://facebook.com/ali"
+    },
+    {
+        "name": "Faisal",
+        "email": "faisal@google.com",
+        "phone": "12222333",
+        "address": "Srinagar",
+        "city": "Somewhere",
+        "social": "https://facebook.com/faisal"
+    }
+]
