@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WHOIS Lookup</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <header>
+        <h1>WHOIS Lookup</h1>
+    </header>
+
+    <div class="container">
+        <form action="">
+            <label for="domainInput">Enter Domain:</label>
+            <input type="text" id="domainInput" placeholder="example.com">
+
+            <button type="submit">Lookup</button>
+        </form>
+
+        <div id="result-card">
+            <div class="label">Domain Name:</div>
+            <div class="value" id="domainName"></div>
+
+            <div class="label">Registrar:</div>
+            <div class="value" id="registrar"></div>
+
+            <div class="label">WHOIS Server:</div>
+            <div class="value" id="whoisServer"></div>
+
+            <div class="label">Name Servers:</div>
+            <div class="value" id="nameServers"></div>
+
+            <div class="label">Updated At:</div>
+            <div class="value" id="updatedAt"></div>
+
+            <div class="label">Created At:</div>
+            <div class="value" id="createdAt"></div>
+
+            <!-- Add more fields as needed -->
+
+        </div>
+    </div>
+
+    <script type="module" src="main.js"></script>
+</body>
+
+</html>
