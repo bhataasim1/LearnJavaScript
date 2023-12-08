@@ -17,7 +17,7 @@ submitButton.addEventListener('click', async (e) => {
 
 async function getWeather(userInput) {
     const URI = `https://api.api-ninjas.com/v1/weather?city=${encodeURIComponent(userInput)}`;
-    const APIKEY = 'Your Api Key';
+    const APIKEY = 'GctqLQqeZlWn0Y5GvTq8mQ==1s8dYmGmsVtDuYqj'; //put your api key here (ninjaAPI)
     const response = await fetch(URI, {
         headers: {
             'X-Api-Key': APIKEY
