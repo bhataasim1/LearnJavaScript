@@ -6,12 +6,28 @@ Welcome to the LearnJavascript repository! This collection of beginner-friendly 
 
 JavaScript is a versatile and widely-used programming language in web development. This repository is your gateway to learning and mastering JavaScript through hands-on projects. Each project is carefully designed to be beginner-friendly, with clear explanations and step-by-step guides.
 
-## How to Get Started
+## Check out the projects
 
-To get started with this repository and start your journey in learning JavaScript, follow these simple steps:
+# 1 - [Automatic Color Changer](https://bhataasim1.github.io/LearnJavaScript/Automatic-Color-change)
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/bhataasim1/LearnJavaScript.git
-   ```
+# 2 - [Change Background](https://bhataasim1.github.io/LearnJavaScript/ChangeBackground)
 
+# 3 - [Clock](https://bhataasim1.github.io/LearnJavaScript/Clock)
+
+# 4 - [Counter](https://bhataasim1.github.io/LearnJavaScript/Counter)
+
+# 5 - [Color Flipper](https://bhataasim1.github.io/LearnJavaScript/Color-Filiper)
+
+# 6 - [Github Profile Checker](https://bhataasim1.github.io/LearnJavaScript/GithubProfile)
+
+# 7 - [Guess The Number Game](https://bhataasim1.github.io/LearnJavaScript/Guess-the-Number)
+
+# 8 - [Key Press Checker](https://bhataasim1.github.io/LearnJavaScript/KeyPress)
+
+# 9 - [WHOIS](https://bhataasim1.github.io/LearnJavaScript/WHOIS)
+
+# 10 - [Weather App](https://bhataasim1.github.io/LearnJavaScript/WeatherApp)
+
+# 11 - [Read Data From Json File](https://bhataasim1.github.io/LearnJavaScript/dataFromJson)
+
+# 12 - [Github Profile Checker](https://bhataasim1.github.io/LearnJavaScript/getGithubProfile)
