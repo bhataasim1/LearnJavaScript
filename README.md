@@ -8,26 +8,26 @@ JavaScript is a versatile and widely-used programming language in web developmen
 
 ## Check out the projects
 
-# 1 - [Automatic Color Changer](https://bhataasim1.github.io/LearnJavaScript/Automatic-Color-change)
+1 - [Automatic Color Changer](https://bhataasim1.github.io/LearnJavaScript/Automatic-Color-change)
 
-# 2 - [Change Background](https://bhataasim1.github.io/LearnJavaScript/ChangeBackground)
+2 - [Change Background](https://bhataasim1.github.io/LearnJavaScript/ChangeBackground)
 
-# 3 - [Clock](https://bhataasim1.github.io/LearnJavaScript/Clock)
+3 - [Clock](https://bhataasim1.github.io/LearnJavaScript/Clock)
 
-# 4 - [Counter](https://bhataasim1.github.io/LearnJavaScript/Counter)
+4 - [Counter](https://bhataasim1.github.io/LearnJavaScript/Counter)
 
-# 5 - [Color Flipper](https://bhataasim1.github.io/LearnJavaScript/Color-Filiper)
+5 - [Color Flipper](https://bhataasim1.github.io/LearnJavaScript/Color-Filiper)
 
-# 6 - [Github Profile Checker](https://bhataasim1.github.io/LearnJavaScript/GithubProfile)
+6 - [Github Profile Checker](https://bhataasim1.github.io/LearnJavaScript/GithubProfile)
 
-# 7 - [Guess The Number Game](https://bhataasim1.github.io/LearnJavaScript/Guess-the-Number)
+7 - [Guess The Number Game](https://bhataasim1.github.io/LearnJavaScript/Guess-the-Number)
 
-# 8 - [Key Press Checker](https://bhataasim1.github.io/LearnJavaScript/KeyPress)
+8 - [Key Press Checker](https://bhataasim1.github.io/LearnJavaScript/KeyPress)
 
-# 9 - [WHOIS](https://bhataasim1.github.io/LearnJavaScript/WHOIS)
+9 - [WHOIS](https://bhataasim1.github.io/LearnJavaScript/WHOIS)
 
-# 10 - [Weather App](https://bhataasim1.github.io/LearnJavaScript/WeatherApp)
+10 - [Weather App](https://bhataasim1.github.io/LearnJavaScript/WeatherApp)
 
-# 11 - [Read Data From Json File](https://bhataasim1.github.io/LearnJavaScript/dataFromJson)
+11 - [Read Data From Json File](https://bhataasim1.github.io/LearnJavaScript/dataFromJson)
 
-# 12 - [Github Profile Checker](https://bhataasim1.github.io/LearnJavaScript/getGithubProfile)
+12 - [Github Profile Checker](https://bhataasim1.github.io/LearnJavaScript/getGithubProfile)
