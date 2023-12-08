@@ -17,7 +17,7 @@ document.querySelector('button').addEventListener('click', async (e) => {
 
 async function getDetails(userInput) {
     const URL = `https://api.api-ninjas.com/v1/whois?domain=${encodeURIComponent(userInput)}`;
-    const API_KEY = 'Your Api Key Here';
+    const API_KEY = 'GctqLQqeZlWn0Y5GvTq8mQ==1s8dYmGmsVtDuYqj'; //put your api key here (ninjaAPI)
 
     const response = await fetch(URL, {
         headers: {
